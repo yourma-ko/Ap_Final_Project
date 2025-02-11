@@ -27,7 +27,7 @@ from main import (
 logging.basicConfig(level=logging.INFO)
 
 # Initialize bot with your token
-BOT_TOKEN = "7425325279:AAE7HJRpbkwrDlPKysIgs6DMBs_nx6nYOTg"
+BOT_TOKEN = ""
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Initialize state
